@@ -1,4 +1,3 @@
-My Awesome Book
+About The Book
 =======
-
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+The Book is an initiative to create the ultimate docker book for all the docker echo systems and usages e.g. (Micro Service, PaaS)
