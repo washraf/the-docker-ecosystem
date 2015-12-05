@@ -12,5 +12,5 @@
        * [Docker is not](Chapter 1/Section 2/Docker is not.md)
    * [Techniques Behind Docker](Chapter 1/Section 3/techniques_behind_docker.md)
        * [Control Groups](Chapter 1/Section 3/Control Groups.md)
-       * Kernel NameSpaces
+       * [Kernel NameSpaces](Chapter 1/Section 3/kernel_namespaces.md)
 
