@@ -3,13 +3,13 @@
 The most common tools for a docker GUI Interface
 ###Shipyard
 Shipyard gives you the ability to manage Docker resources, including containers, images, hosts, and more from a single management interface. 
-For more information visit: https://github.com/ehazlett/shipyard 
+For more information click [here](https://github.com/ehazlett/shipyard)
 ###DockerUI
 DockerUI is a web interface that allows you to interact with the Docker Remote API. It's written in JavaScript using the AngularJS framework.
-For more information visit: https://github.com/crosbymichael/dockerui 
+For more information click [here](https://github.com/crosbymichael/dockerui)
 ###maDocker
 A Web UI written in NodeJS and Backbone (in early stages of development).
-For more information visit: https://github.com/izifortune/maDocker 
+For more information click [here](https://github.com/izifortune/maDocker) 
 ###Docker ToolBox
-http://blog.docker.com/2015/08/docker-toolbox/
+tool [site](http://blog.docker.com/2015/08/docker-toolbox/)
 
