@@ -1,6 +1,8 @@
 # Copy On Write
 
-The Middleware is responsible for creating and managing the container. When a container is started it appears to have its own Linux files system that you're using. The fact is you don't; at the start of the contianer it links to files in the base kernel that all containers shared, and the way it handle the changes is via the copy on write model, where each change to the file system is copied to an in memory version of the base file with the changes.This results two main effects:
+The Middleware is responsible for creating and managing the container. When a container is started it appears to have its own Linux files system that you're using. The fact is you don't; at the start of the container it links to files in the base kernel that all containers shared, and the way it handle the changes is via the copy on write model, where each change to the file system is copied to an in memory version of the base file with the changes.
+
+####This results two main effects:
 * 
 The container will result a small footprint.
 * 
