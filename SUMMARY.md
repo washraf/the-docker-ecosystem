@@ -17,5 +17,5 @@
        * [Capabilities](Chapter 1/Section 3/capabilities.md)
        * [Copy On Write](Chapter 1/Section 3/copy_on_write.md)
    * [Docker vs Virtual Machines](Chapter 1/docker_vs_virtual_machines.md)
-   * Docker Architecture
+   * [Docker Architecture](Chapter 1/Section 5/docker_architecture.md)
 
