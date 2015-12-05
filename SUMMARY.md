@@ -20,5 +20,5 @@
    * [Docker Architecture](Chapter 1/Section 5/docker_architecture.md)
        * [Docker Client](Chapter 1/Section 5/docker_client.md)
        * [Docker Engine](Chapter 1/Section 5/docker_engine.md)
-       * Docker HUB
+       * [Docker HUB](Chapter 1/Section 5/docker_hub.md)
 
