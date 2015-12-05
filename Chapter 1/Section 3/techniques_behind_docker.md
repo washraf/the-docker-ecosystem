@@ -8,6 +8,6 @@ Kernel Name Spaces
 1. 
 Union File system
 1. 
-Copy on Write
-1. 
 Capabilities
+1. 
+Copy on Write
