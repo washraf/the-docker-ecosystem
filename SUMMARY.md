@@ -35,6 +35,6 @@
        * [Docker Diff](Chapter 2/Section 4/docker_diff.md)
        * [Docker PS](Chapter 2/Section 4/docker_ps.md)
    * [Container Control Commands](Chapter 2/Section 5/containerc_control_commands.md)
-       * [Exec Command](Chapter 2/Section 5/exec_command.md)
        * Docker Start-Stop-Restart
+       * [Exec Command](Chapter 2/Section 5/exec_command.md)
 
