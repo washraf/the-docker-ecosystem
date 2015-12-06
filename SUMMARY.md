@@ -26,5 +26,5 @@
    * [Installation](Chapter 2/Section 1/installation_prerequisites.md)
        * [Install On CentOS](Chapter 2/Section 1/install_on_centos.md)
    * [Docker Engine Control](Chapter 2/docker_engine_control.md)
-   * Docker Generic Commands
+   * [Docker Generic Commands](Chapter 2/Section 3/docker_generic_commands.md)
 
