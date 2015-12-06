@@ -23,5 +23,5 @@
        * [Docker HUB](Chapter 1/Section 5/docker_hub.md)
    * [Docker Interfaces](Chapter 1/Section 6/docker_interfaces.md)
 * [Docker First Steps](Chapter 2/docker_first_steps.md)
-   * [Installation](Chapter2/Section 1/Installation_Prerequisites.md)
+   * [Installation](Chapter 2/Section 1/Installation_Prerequisites.md)
 
