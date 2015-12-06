@@ -29,7 +29,7 @@
    * [Running Docker Container](Chapter 2/Section 4/running_docker_container.md)
        * [Run Command](Chapter 2/Section 4/run_command.md)
        * [Other Commands](Chapter 2/Section 4/exec_command.md)
-    * [Docker Generic Commands](Chapter 2/Section 3/docker_generic_commands.md)
+   * [Docker Generic Commands](Chapter 2/Section 3/docker_generic_commands.md)
        * [Docker Login](Chapter 2/Section 3/docker_login.md)
        * [Docker Info](Chapter 2/Section 3/docker_info.md)
        * [Docker PS](Chapter 2/Section 3/docker_ps.md)
