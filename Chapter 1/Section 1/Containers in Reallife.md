@@ -1,6 +1,6 @@
 #Containers in Reallife
 The containers are a concept that applied to many of the products we use daily. For example, Android uses containers to separate Applications (Dalvik VM). Also Google announced in Google I/O 2014, that use containers to host user Apps and all their cloud services and they announced that they create 2 billion containers/week.
-Also containers as an ecosystem have raised in the latest few years with some of the applications that includes:
+Also containers as an ecosystem have raised in the latest few years with some of the applications that **includes**:
 
 ####Highly performant, hyper scale deployments of hosts
 Containers are known for both their high density/host and rapid start time which are a core feature to hyper scale deployment.
