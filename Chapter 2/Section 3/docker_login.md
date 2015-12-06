@@ -4,9 +4,9 @@ Register or log in to a docker registry.
 
 ###Usage
 
-docker login [OPTIONS] [SERVER]
+```docker login [OPTIONS] [SERVER]```
 
-[options]
+**[options]**
 
 -e, --email=""       Email
 
@@ -14,16 +14,20 @@ docker login [OPTIONS] [SERVER]
 
 -u, --username=""    Username
 
-[server]
+**[server]**
 
-Docker registry server, if no server is specified [https://index.docker.io/v1/]("https://index.docker.io/v1/) is the default.
+Docker registry server, if no server is specified ("https://index.docker.io/v1/) is the default.
 
 ###Example
-$ sudo docker login
-Username: XXXXX
-Password: 
-Email: XXX@XXX.com
-WARNING: login credentials saved in /root/.docker/config.json
+```$ sudo docker login```
+
+```Username: XXXXX```
+
+```Password: ```
+
+```Email: XXX@XXX.com```
+
+####**WARNING:** login credentials saved in /root/.docker/config.json
 Login Succeeded
 
 Also check the [logout command]( https://docs.docker.com/reference/commandline/logout/)
