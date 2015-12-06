@@ -35,3 +35,5 @@
        * [Docker Diff](Chapter 2/Section 4/docker_diff.md)
        * [Docker PS](Chapter 2/Section 4/docker_ps.md)
    * [Container Control Commands](Chapter 2/containerc_control_commands.md)
+   * Tips and Trics
+
