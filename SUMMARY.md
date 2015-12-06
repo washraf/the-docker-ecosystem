@@ -25,5 +25,5 @@
 * [Docker First Steps](Chapter 2/docker_first_steps.md)
    * [Installation](Chapter 2/Section 1/installation_prerequisites.md)
        * [Install On CentOS](Chapter 2/Section 1/install_on_centos.md)
-   * Docker Engine Control
+   * [Docker Engine Control](Chapter 2/docker_engine_control.md)
 
