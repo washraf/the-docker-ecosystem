@@ -1,4 +1,16 @@
-/* CSS for website */
+/* CSS for all */
 h1{
     color:red;
+}
+
+section.normal p,
+section.normal li {
+    text-align: justify;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal h1 {
+    padding-bottom: .3em;
+    font-size: 2.25em;
+    line-height: 1.2;
+    border-bottom: 4px solid #eee;
 }
