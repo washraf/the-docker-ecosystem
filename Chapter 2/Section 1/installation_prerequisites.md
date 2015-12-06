@@ -1,4 +1,4 @@
-# Intallation Prerequisites
+# Installation Prerequisites
 
 Docker must be installed on 64 bit OS with kernel more than 3.10.
 The kernel must support an appropriate storage driver. 
