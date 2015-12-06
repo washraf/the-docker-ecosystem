@@ -1,4 +1,6 @@
-#About The Book
+#Introduction to the book
+
+##What this book is?
 
 The Book is an initiative to create the ultimate docker book for all the docker echo systems and usages e.g. (Micro Service, PaaS).
 
