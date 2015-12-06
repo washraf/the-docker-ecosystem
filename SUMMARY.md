@@ -28,4 +28,5 @@
    * [Docker Engine Control](Chapter 2/docker_engine_control.md)
    * [Docker Generic Commands](Chapter 2/Section 3/docker_generic_commands.md)
        * [Docker Login](Chapter 2/Section 3/docker_login.md)
+       * Docker Info
 
