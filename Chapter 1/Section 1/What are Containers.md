@@ -1,6 +1,6 @@
-#What are Containers
+#What are Containers ?
 
-Container is a called light weight virtualization also called Operating system level software and echo system that allows sharing the Operating system between multiple instances called containers. 
+Containers is a light weight virtualization which is also known as Operating system level virtualization.As a definition it a middle-ware and echo system that allows sharing the Operating system between multiple instances called containers. 
 
 Each container is separated from other containers and could have a different Linux flavor than other container and the base operating system.
 
