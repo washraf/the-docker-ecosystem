@@ -33,5 +33,5 @@
        * [Docker Info](Chapter 2/Section 4/docker_info.md)
        * [Docker Diff](Chapter 2/Section 4/docker_diff.md)
        * [Docker PS](Chapter 2/Section 4/docker_ps.md)
-       * [Other Commands](Chapter 2/Section 3/other_commands.md)
+       * [Other Commands](Chapter 2/Section 4/other_commands.md)
 
