@@ -1,6 +1,6 @@
 # Containers implementations
 
-Although this document is focused on docker we must clarify that there are different containers implementations.
+Although this document is focused on **docker** we must clarify that there are different containers implementations.
 
 ####LXC (Linux Containers)
 This is the father of all kinds of containers and it represents an operating-system-level virtualization environment for running multiple isolated Linux systems (containers) on a single Linux machine.
