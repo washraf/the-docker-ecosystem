@@ -1,6 +1,5 @@
 # History Of Containers
 
-
 #### One of most basic laws of science is the Law of the Conservation of Energy “Energy cannot be created or destroyed; it can only be changed from one form to another”.
 #### Also, Darwin states that “It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is most adaptable to change”.
 ###From those two ultimate rules we can figure three things about any technology, tool or concept:
