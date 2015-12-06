@@ -1,5 +1,8 @@
 # Glossary
 
-## w
+## Authors
 
-s
+* 
+Walid Ashraf
+
+## References
