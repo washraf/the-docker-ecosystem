@@ -35,4 +35,4 @@
        * [Docker Diff](Chapter 2/Section 4/docker_diff.md)
        * [Docker PS](Chapter 2/Section 4/docker_ps.md)
    * [Container Control Commands](Chapter 2/Section 5/container_control_commands.md)
-       * [Other Commands](Chapter 2/Section 5/other_commands.md)
+       * [Exec Command](Chapter 2/Section 5/exec_command.md)
