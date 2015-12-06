@@ -30,4 +30,5 @@
        * [Docker Login](Chapter 2/Section 3/docker_login.md)
        * [Docker Info](Chapter 2/Section 3/docker_info.md)
        * [Docker PS](Chapter 2/Section 3/docker_ps.md)
+       * Docker Diff
 
