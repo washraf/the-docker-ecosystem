@@ -47,27 +47,25 @@ This will create a new Bash session in the container ubuntu_bash.
 
 This commands brings a container to the foreground. The container must be running to be attached.
 
-###Usage
+###**Usage**
 ```$ docker attach [OPTIONS] CONTAINER```
-###Example
+###**Example**
 ```$ sudo docker attach Your_Ubuntu_Container```
 
 For more Information visit the [commandline page](https://docs.docker.com/reference/commandline/attach/)
 
-Inspect
+##Inspect
 This command is used to check for the current configuration of a container from network to drivers and name. It prints the information in the form of JSON File
-For More Information visit: https://docs.docker.com/reference/commandline/inspect/ 
 
-Usage
-$ docker inspect [OPTIONS] CONTAINER|IMAGE [CONTAINER|IMAGE...]
-Example
-$ sudo docker inspect Your_Ubuntu_Container
+####**Usage**
+```$ docker inspect [OPTIONS] CONTAINER|IMAGE [CONTAINER|IMAGE...]```
+####**Example**
+```$ sudo docker inspect Your_Ubuntu_Container```
 
-Deleting a container
+##Deleting a container
 This command is used to delete any container either by name or ID. Put Make sure that the container is stopped before you remove it.
-For More Information visit: https://docs.docker.com/reference/commandline/rm/ 
-Usage
+####**Usage**
 $ docker rm [OPTIONS] CONTAINER [CONTAINER...]
-Example
+####**Example**
 $ sudo docker rm Your_Ubuntu_Container
 
