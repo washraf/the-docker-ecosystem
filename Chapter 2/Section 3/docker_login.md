@@ -27,7 +27,7 @@ Docker registry server, if no server is specified ("https://index.docker.io/v1/)
 
 ```Email: XXX@XXX.com```
 
-####**WARNING:** login credentials saved in /root/.docker/config.json
+####**Warning:** login credentials saved in /root/.docker/config.json
 Login Succeeded
 
 Also check the [logout command]( https://docs.docker.com/reference/commandline/logout/)
