@@ -1,6 +1,11 @@
 /* CSS for all */
 h1{
-    color:Blue;
+    color:#000066;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+h2{
+     color:#660066;
 }
 
 section.normal p,
