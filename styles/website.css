@@ -7,16 +7,18 @@ h1{
     line-height: 1.2;
     border-bottom: 4px solid #eee;
 }
+
 h2{
      color:#660066;
 }
+
 h3{
     color:Green;
 }
+
 h4{
     color:Red;
 }
-
 
 section.normal p,
 section.normal li {
@@ -29,4 +31,3 @@ section.normal li {
     font-size: small;
     line-height: 1;
 }
-
