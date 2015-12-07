@@ -6,7 +6,8 @@
     "plugins": [
         "ace",
         "addcssjs",
-        "anchors"
+        "anchors",
+        "codeex"
     ],
     "pluginsConfig": {
         "addcssjs": {
