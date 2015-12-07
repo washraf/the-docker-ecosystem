@@ -1,5 +1,13 @@
 {
-    "title": "The Docker Echo System",
+    "styles": {
+        "website": "styles/website.css",
+        "pdf": "styles/website.css"
+    },
+    "plugins": [
+        "-autocover"
+    ],
+    "pluginsConfig": {
+        "title": "The Docker Echo System",
     "author": "Walid Ashraf",
     "font": {
         "size": null,
@@ -12,13 +20,6 @@
     },
     "background": {
         "color": "#09F"
-    },
-    "styles": {
-        "website": "styles/website.css",
-        "pdf": "styles/website.css"
-    },
-    "plugins": [
-        "-autocover"
-    ],
-    "pluginsConfig": {}
+    }
+    }
 }
