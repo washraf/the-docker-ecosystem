@@ -19,6 +19,9 @@ h3{
 h4{
     color:Red;
 }
+code{
+    color: Red;
+}
 
 section.normal p,
 section.normal li {
