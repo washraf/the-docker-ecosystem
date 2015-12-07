@@ -12,7 +12,7 @@ This is the recommended way to create a docker image.
 ```$ vi Dockerfile```
 
 **Step 3:** Write this commands in the file
-{%ace%}
+{%ace edit=false%}
 # Version: 0.0.1
 FROM ubuntu
 MAINTAINER Walid Ashraf "w@w.com"
