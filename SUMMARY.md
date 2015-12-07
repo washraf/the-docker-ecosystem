@@ -40,4 +40,5 @@
 * [Images and docker HUB](Chapter 3/ images_and_docker_hub.md)
    * [Docker Images and Containers](Chapter 3/docker_images_and_containers.md)
    * [Docker Images Commands](Chapter 3/docker_images_commands.md)
+   * Building Docker Images
 
