@@ -6,22 +6,22 @@ h1{
     margin:0px;
     line-height: 1.2;
     border-bottom: 4px solid #eee;
-    font-size:small;
+    font-size:10px;
 }
 
 h2{
     color:DarkMagenta;
-    font-size:small;
+    font-size:10px;
 }
 
 h3{
     color:DarkSlateBlue;
-    font-size:small;
+    font-size:10px;
 }
 
 h4{
     color:DarkBlue;
-    font-size:small;
+    font-size:10px;
 }
 
 code{
