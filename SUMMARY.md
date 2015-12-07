@@ -38,5 +38,5 @@
        * [Docker PS](Chapter 2/Section 5/docker_ps.md)
    * [Tips and Trics](Chapter 2/tips_and_trics.md)
 * [Images and docker HUB](Chapter 3/ images_and_docker_hub.md)
-   * Docker Images and Containers
+   * [Docker Images and Containers](Chapter 3/docker_images_and_containers.md)
 
