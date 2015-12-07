@@ -21,6 +21,7 @@ RUN echo 'Hi, I am in your container' \
 >/usr/share/nginx/html/index.html
 EXPOSE 80
 {%endace%}
+
 **Step4:** Build Image
 
 ```$ sudo docker build -t="walid/ngtest" .```
