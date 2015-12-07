@@ -57,5 +57,5 @@
    * [Resource Control](Chapter 4/Section 4/resource_control.md)
        * [Memory Control](Chapter 4/Section 4/memory_control.md)
        * [CPU Control](Chapter 4/Section 4/cpu_control.md)
-       * IO Control
+       * [IO Control](Chapter 4/Section 4/io_control.md)
 
