@@ -44,7 +44,7 @@ $$40085$$
 ##How this works
 In the Linux world, every system has just one root process with the **PID 1 and PPID 0**, which is the root of the complete process tree of that system. The Docker framework cleverly leverages the Linux PID namespace to spin a completely new process tree; thus, the processes running inside a container have no access to the parent process of the Docker host. However, the Docker host has a complete view of the child PID namespace spun by the Docker engine.
 
-The PID namespace provides consistent, virtual resource names in place of host-dependent resource names. Such PIDs within a container are trivially assigned in a unique manner in the same way that traditional operating systems assign names, but such names are localized to the container. Since the namespace is private to a given container, there are no resource naming conflicts for processes in different containers.
+The **PID** namespace provides consistent, virtual resource names in place of host-dependent resource names. Such PIDs within a container are trivially assigned in a unique manner in the same way that traditional operating systems assign names, but such names are localized to the container. Since the namespace is private to a given container, there are no resource naming conflicts for processes in different containers.
 
 As a result, processes are created inside of a container and spend their entire lifetimes in the context of that container; they are not allowed to leave one container and join another.
 
