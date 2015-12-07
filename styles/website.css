@@ -1,5 +1,13 @@
 /* CSS for all */
 
+.book-header h1{
+    color:#000066;
+    text-transform: uppercase;
+    padding: 0px;
+    margin: 0px;
+    font-size: 10px;
+}
+
 .page-wrapper .normal h1{
     color:#000066;
     text-transform: uppercase;
@@ -10,7 +18,7 @@
     font-size: xx-small;
 }
 
-h2{
+.page-wrapper .normal h2{
     color: DarkMagenta;
     font-size: 10px;
 }
@@ -39,14 +47,6 @@ pre code{
     background-color: YellowGreen;
     padding: 0px;
     margin: 0px;
-}
-
-.book-header h1{
-    color:#000066;
-    text-transform: uppercase;
-    padding: 0px;
-    margin: 0px;
-    font-size: 10px;
 }
 
 section.normal p,
