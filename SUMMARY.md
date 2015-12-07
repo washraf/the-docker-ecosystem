@@ -43,4 +43,5 @@
    * [Building Docker Images](Chapter 3/Section 3/building_docker_images.md)
        * [Docker Commit](Chapter 3/Section 3/docker_commit.md)
        * [Docker Build](Chapter 3/Section 3/docker_build.md)
+   * Docker File Instructions
 
