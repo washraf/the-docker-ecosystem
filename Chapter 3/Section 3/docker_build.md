@@ -40,6 +40,7 @@ EXPOSE 80
 
 **Step 7:** check the assigned port from the docker deamon
 
+!FILENAME
 ```$ sudo docker ps```	
 
     CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS              PORTS                   NAMES
