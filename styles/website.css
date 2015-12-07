@@ -23,6 +23,10 @@ code{
     background-color: Red; 
 }
 
+pre code{
+    color: green;
+}
+
 section.normal p,
 section.normal li {
     text-align: justify;
