@@ -5,15 +5,10 @@
     },
     "plugins": [
         "ace",
-        "addcssjs",
         "anchors",
         "splitter"
     ],
     "pluginsConfig": {
-        "addcssjs": {
-            "css": [
-                "style/website.css"
-            ]
-        }
+        
     }
 }
