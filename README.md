@@ -13,7 +13,3 @@ The Books is a journey from zero or very basic understanding of docker to a full
 
 ##About the authors
 Feel free to edit and review the book and Feel free to add your self to the book authors as long as you continuously contribute the this body of knowledge.
-
-{% markupEx "Example tag"  %}
-<p>A <strong>bold</strong> word.
-{% endmarkupEx %}
