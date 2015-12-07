@@ -21,6 +21,8 @@ section.normal h1{
 section.normal h2{
     color: DarkMagenta;
     font-size: 10px;
+    padding: 0px;
+    margin: 0px;
 }
 
 section.normal h3{
