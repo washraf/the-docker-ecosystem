@@ -45,5 +45,5 @@
        * [Docker Build](Chapter 3/Section 3/docker_build.md)
    * [Docker File Instructions](Chapter 3/docker_file_instructions.md)
    * [Using Docker HUB](Chapter 3/Section 5/using_docker_hub.md)
-       * Create docker HUB Account
+       * [Create docker HUB Account](Chapter 3/Section 5/create_docker_hub_account.md)
 
