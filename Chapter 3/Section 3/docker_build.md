@@ -12,14 +12,15 @@ This is the recommended way to create a docker image.
 ```$ vi Dockerfile```
 
 **Step 3:** Write this commands in the file
-    # Version: 0.0.1
-    FROM ubuntu
-    MAINTAINER Walid Ashraf "w@w.com"
-    RUN apt-get install -y nginx
-    RUN echo 'Hi, I am in your container' \
-    >/usr/share/nginx/html/index.html
-    EXPOSE 80
-
+{%ace%}
+# Version: 0.0.1
+FROM ubuntu
+MAINTAINER Walid Ashraf "w@w.com"
+RUN apt-get install -y nginx
+RUN echo 'Hi, I am in your container' \
+>/usr/share/nginx/html/index.html
+EXPOSE 80
+{%endace%}
 **Step4:** Build Image
 
 ```$ sudo docker build -t="walid/ngtest" .```
