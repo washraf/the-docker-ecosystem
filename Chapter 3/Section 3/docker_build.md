@@ -8,6 +8,7 @@ This is the recommended way to create a docker image.
 ```$ mkdir NginxDir```
 
 **Step 2:** Create file
+
 ```$ vi Dockerfile```
 
 **Step 3:** Write this commands in the file
