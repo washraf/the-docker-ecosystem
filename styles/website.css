@@ -19,12 +19,12 @@ h4{
     color:Red;
 }
 code{
-    color: yellow;
+    color: black;
     background-color: Red; 
 }
 
 pre code{
-    color: green;
+    color: Teal;
 }
 
 section.normal p,
