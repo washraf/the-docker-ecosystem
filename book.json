@@ -6,8 +6,7 @@
     "plugins": [
         "ace",
         "addcssjs",
-        "anchors",
-        "codeblock-filename"
+        "anchors"
     ],
     "pluginsConfig": {
         "addcssjs": {
