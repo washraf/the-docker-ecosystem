@@ -58,5 +58,5 @@
        * [Memory Control](Chapter 4/Section 4/memory_control.md)
        * [CPU Control](Chapter 4/Section 4/cpu_control.md)
        * [IO Control](Chapter 4/Section 4/io_control.md)
-       * Control Capabilities
+       * [Control Capabilities](Chapter 4/Section 4/control_capabilities.md)
 
