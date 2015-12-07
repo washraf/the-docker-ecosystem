@@ -3,25 +3,25 @@
 h1{
     color:#000066;
     text-transform: uppercase;
-    padding:0px;
-    margin:0px;
+    padding: 0px;
+    margin: 0px;
     line-height: 1.2;
     border-bottom: 4px solid #eee;
-    font-size:10px;
+    font-size: 10px;
 }
 
 h2{
-    color:DarkMagenta;
-    font-size:10px;
+    color: DarkMagenta;
+    font-size: 10px;
 }
 
 h3{
-    color:DarkSlateBlue;
-    font-size:10px;
+    color: DarkSlateBlue;
+    font-size: 10px;
 }
 
 h4{
-    color:DarkBlue;
+    color: DarkBlue;
     font-size:10px;
 }
 
@@ -29,30 +29,30 @@ code{
     color: DarkSlateGray;
     background-color: YellowGreen;
     font-size: 1.5em;
-    padding:0px;
-    margin:0px;
+    padding: 0px;
+    margin: 0px;
 }
 
 pre code{
     color: Teal;
     font-size: 2.5em;
     background-color: YellowGreen;
-    padding:0px;
-    margin:0px;
+    padding: 0px;
+    margin: 0px;
 }
 
 section.normal p,
 section.normal li {
     text-align: justify;
-    padding:0px;
-    margin:0px;
+    padding: 0px;
+    margin: 0px;
 }
 
 .book .book-body .page-wrapper .page-inner section.normal{
     padding-bottom: .3em;
     line-height: 1;
     font-size: 1.25em;
-    padding:0px;
-    margin:0px;
+    padding: 0px;
+    margin: 0px;
 }
 
