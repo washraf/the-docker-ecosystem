@@ -7,11 +7,11 @@ The container root file system could be accessed using the process id we learned
 ```# cd /proc/40085/root; ls```
 
     bin  boot  dev  etc  home  lib  lib64  media  mnt  opt  proc  root  run  sbin  srv  sys  tmp  usr  var 
-**Step 2 :** adding a file from host
+**Step 2 :** Adding a file from host
 
 ```# touch testfromroot```
 
-**Step 3 :** go to container
+**Step 3 :** Go to container
 
 ```root@1b51c60ecc24:/# ls```
 
