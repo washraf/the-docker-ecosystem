@@ -4,7 +4,7 @@
         "pdf": "styles/website.css"
     },
     "plugins": [
-        "autocover"
+        "-autocover"
     ],
     "pluginsConfig": {}
 }
