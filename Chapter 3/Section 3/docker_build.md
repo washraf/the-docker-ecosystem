@@ -2,8 +2,8 @@
 
 This is the recommended way to create a docker image.
 
-##Demo
-**Step 1:**Create directory
+###Demo
+**Step 1:** Create directory
 
 ```$ mkdir NginxDir```
 
@@ -20,6 +20,7 @@ This is the recommended way to create a docker image.
     EXPOSE 80
 
 **Step4:** Build Image
+
 ```$ sudo docker build -t="walid/ngtest" .```
 
 …Successfully built d69edbcc0346
@@ -35,11 +36,13 @@ This is the recommended way to create a docker image.
 ```sudo docker run -d -p 80  washraf/ngtest nginx -g "daemon off;"```
 
 **Step 7:** check the assigned port from the docker deamon
+
 ```$ sudo docker ps```	
 
     CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS              PORTS                   NAMES
     6d575aeb39f1        washraf/ngtest      "nginx -g 'daemon off"   2 minutes ago       Up 2 minutes        0.0.0.0:32769->80/tcp   drunk_babbage
 **Step 8:** visit the site
+
 ![](S3_Site.jpg)
 
-For more about building docker images check the See Docker File part and the [build command page](https://docs.docker.com/reference/commandline/build/)
+>For more about building docker images check the See Docker File part and the [build command page](https://docs.docker.com/reference/commandline/build/)
