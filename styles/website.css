@@ -8,7 +8,7 @@
     font-size: 10px;
 }
 
-.page-wrapper .normal h1{
+section.normal h1{
     color:#000066;
     text-transform: uppercase;
     padding: 0px;
@@ -18,22 +18,22 @@
     font-size: xx-small;
 }
 
-.page-wrapper .normal h2{
+section.normal h2{
     color: DarkMagenta;
     font-size: 10px;
 }
 
-h3{
+section.normal h3{
     color: DarkSlateBlue;
     font-size: 10px;
 }
 
-h4{
+section.normal h4{
     color: DarkBlue;
     font-size:10px;
 }
 
-p code{
+section.normal p code{
     color: DarkSlateGray;
     background-color: YellowGreen;
     font-size: 20px;
@@ -41,7 +41,7 @@ p code{
     margin: 0px;
 }
 
-pre code{
+section.normal pre code{
     color: Teal;
     font-size: 20px;
     background-color: YellowGreen;
