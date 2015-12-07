@@ -5,7 +5,7 @@
     },
     "plugins": [
         "ace",
-        "addcssjs",
+        "addcssjs"
     ],
     "pluginsConfig": {
         "addcssjs": {
