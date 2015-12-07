@@ -16,17 +16,7 @@ h3{
 h4{
     color:Red;
 }
-code{
-    background-color:Black;
-    color:#3B0E3B;
-    font-size:3em;
-}
 
-pre code{
-    background-color:yellow;
-    color:#3B0E3B;
-    font-size:3em;
-}
 
 section.normal p,
 section.normal li {
