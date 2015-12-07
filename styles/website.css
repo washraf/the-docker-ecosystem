@@ -6,7 +6,7 @@ section.normal li {
     font-size: 20px;
     padding: 0px;
     margin: 0px;
-    line-height: 0px;
+    line-height: 1em;
 }
 
 .book-header h1{
@@ -15,7 +15,7 @@ section.normal li {
     padding: 0px;
     margin: 0px;
     font-size: 10px;
-    line-height: 0px;
+    line-height: 1em;
 }
 
 section.normal h1{
@@ -25,7 +25,7 @@ section.normal h1{
     margin: 0px;
     border-bottom: 4px solid Indigo;
     font-size: xx-small;
-    line-height: 0px;
+    line-height: 1em;
 }
 
 section.normal h2{
@@ -33,7 +33,7 @@ section.normal h2{
     font-size: 10px;
     padding: 0px;
     margin: 0px;
-    line-height: 0px;
+    line-height: 1em;
 }
 
 section.normal h3{
@@ -41,13 +41,13 @@ section.normal h3{
     font-size: 10px;
     padding: 0px;
     margin: 0px;
-    line-height: 0px;
+    line-height: 1em;
 }
 
 section.normal h4{
     color: DarkBlue;
     font-size: 10px;
-    line-height: 0px;
+    line-height: 1em;
 }
 
 section.normal p code{
@@ -56,7 +56,7 @@ section.normal p code{
     font-size: 30px;
     padding: 0px;
     margin: 0px;
-    line-height: 0px;
+    line-height: 1em;
 }
 
 section.normal pre code{
@@ -65,6 +65,6 @@ section.normal pre code{
     background-color: YellowGreen;
     padding: 0px;
     margin: 0px;
-    line-height: 0px;
+    line-height: 1em;
 }
 
