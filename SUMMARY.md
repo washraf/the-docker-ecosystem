@@ -41,5 +41,5 @@
    * [Docker Images and Containers](Chapter 3/docker_images_and_containers.md)
    * [Docker Images Commands](Chapter 3/docker_images_commands.md)
    * [Building Docker Images](Chapter 3/Section 3/building_docker_images.md)
-       * Docker Commit
+       * [Docker Commit](Chapter 3/Section 3/docker_commit.md)
 
