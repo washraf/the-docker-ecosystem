@@ -51,5 +51,5 @@
    * [Docker Networking](Chapter 4/ Section 2/docker_networking.md)
        * [Port Mapping](Chapter 4/ Section 2/port_mapping.md)
        * [Advanced Network Configuration](Chapter 4/ Section 2/advanced_network_configuration.md)
-       * Docker Weave
+       * [Docker Weave](Chapter 4/ Section 2/docker_weave.md)
 
