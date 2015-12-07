@@ -48,6 +48,7 @@
        * [Push Image to Docker HUB](Chapter 3/Section 5/push_image_to_docker_hub.md)
 * [Docker in Depth](Chapter 4/docker_in_depth.md)
    * [Docker Links](Chapter 4/docker_links.md)
+       * Docker Behind the Scenes
    * [Docker Networking](Chapter 4/ Section 2/docker_networking.md)
        * [Port Mapping](Chapter 4/ Section 2/port_mapping.md)
        * [Advanced Network Configuration](Chapter 4/ Section 2/advanced_network_configuration.md)
