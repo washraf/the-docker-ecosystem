@@ -46,4 +46,5 @@
    * [Docker File Instructions](Chapter 3/docker_file_instructions.md)
    * [Using Docker HUB](Chapter 3/Section 5/using_docker_hub.md)
        * [Push Image to Docker HUB](Chapter 3/Section 5/push_image_to_docker_hub.md)
+* Docker in Depth
 
