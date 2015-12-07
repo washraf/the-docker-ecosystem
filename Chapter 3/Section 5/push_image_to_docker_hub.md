@@ -1,10 +1,12 @@
 # Push Image to Docker HUB
 
 ###Create a Repository
-Login to your account and click the create button and choose to create Repository
+Login to your account and click the create button and choose to create Repository.
+
 ![](HUB_Click_Create.jpg)
 
 Fill the following form with the repository name, description and visibility.
+
 ![](HUB_Fill_Form.jpg)
  
 >Note that the name of the repo is always addressed with the name space e.g. washraf/repo this is used to differentiate the original images created by the docker team from the images created by normal users.
