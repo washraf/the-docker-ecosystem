@@ -44,5 +44,5 @@
        * [Docker Commit](Chapter 3/Section 3/docker_commit.md)
        * [Docker Build](Chapter 3/Section 3/docker_build.md)
    * [Docker File Instructions](Chapter 3/docker_file_instructions.md)
-   * Using Docker HUB
+   * [Using Docker HUB](Chapter 3/Section 5/using_docker_hub.md)
 
