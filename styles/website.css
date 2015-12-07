@@ -1,6 +1,6 @@
 /* CSS for all */
 
-h1{
+.page-wrapper .normal h1{
     color:#000066;
     text-transform: uppercase;
     padding: 0px;
@@ -41,7 +41,7 @@ pre code{
     margin: 0px;
 }
 
-.page-wrapper h1{
+.book-header h1{
     color:#000066;
     text-transform: uppercase;
     padding: 0px;
@@ -55,11 +55,3 @@ section.normal li {
     padding: 0px;
     margin: 0px;
 }
-
-.book .book-body .page-wrapper .page-inner section.normal{
-    padding-bottom: .3em;
-    line-height: 1;
-    padding: 0px;
-    margin: 0px;
-}
-
