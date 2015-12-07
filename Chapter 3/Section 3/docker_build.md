@@ -40,10 +40,7 @@ EXPOSE 80
 
 **Step 7:** check the assigned port from the docker deamon
 
-!FILENAME w.xyz
-```
-$ sudo docker ps
-```	
+```$ sudo docker ps```	
 
     CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS              PORTS                   NAMES
     6d575aeb39f1        washraf/ngtest      "nginx -g 'daemon off"   2 minutes ago       Up 2 minutes        0.0.0.0:32769->80/tcp   drunk_babbage
