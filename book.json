@@ -3,8 +3,6 @@
         "website": "styles/website.css",
         "pdf": "styles/website.css"
     },
-    "plugins": [
-        "-autocover"
-    ],
+    "plugins": [],
     "pluginsConfig": {}
 }
