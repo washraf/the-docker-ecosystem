@@ -54,4 +54,5 @@
        * [Docker Weave](Chapter 4/ Section 2/docker_weave.md)
    * [Data Volumes](Chapter 4/data_volumes.md)
    * [Resource Control](Chapter 4/Section 4/resource_control.md)
+       * Memory Control
 
