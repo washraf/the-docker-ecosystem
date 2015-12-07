@@ -41,6 +41,14 @@ pre code{
     margin: 0px;
 }
 
+.page-wrapper h1{
+    color:#000066;
+    text-transform: uppercase;
+    padding: 0px;
+    margin: 0px;
+    font-size: 10px;
+}
+
 section.normal p,
 section.normal li {
     text-align: justify;
