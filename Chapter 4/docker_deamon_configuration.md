@@ -1,6 +1,6 @@
 # Docker Daemon Configuration
 
-Docker Daemon https://docs.docker.com/reference/commandline/daemon/ 
+Docker Daemon [reference page](https://docs.docker.com/reference/commandline/daemon/)
 
 ###Storage Drivers
 ####Storage drivers for Daemon
@@ -20,5 +20,6 @@ There are three options:
  
 http://developerblog.redhat.com/2014/09/30/overview-storage-scalability-docker/
 
-Changing the storage drivers
-…
+####Changing the storage drivers
+http://muehe.org/posts/switching-docker-from-aufs-to-devicemapper/
+
