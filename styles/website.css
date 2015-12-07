@@ -65,6 +65,6 @@ section.normal pre code{
     background-color: YellowGreen;
     padding: 0px;
     margin: 0px;
-    line-height: 0px;
+    line-height: -10px;
 }
 
