@@ -8,7 +8,13 @@ h2{
 }
 
 code{
-    background-color:gray;
+    background-color:E0ECF0;
+    color:#3B0E3B;
+    font-size:3em;
+}
+pre code{
+    background-color:yellow;
+    color:#3B0E3B;
     font-size:3em;
 }
 
