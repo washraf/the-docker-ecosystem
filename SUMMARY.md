@@ -48,13 +48,11 @@
        * [Push Image to Docker HUB](Chapter 3/Section 5/push_image_to_docker_hub.md)
 * [Docker in Depth](Chapter 4/docker_in_depth.md)
    * [Docker Links](Chapter 4/docker_links.md)
-       * Docker Behind the Scenes
    * [Docker Networking](Chapter 4/ Section 2/docker_networking.md)
        * [Port Mapping](Chapter 4/ Section 2/port_mapping.md)
        * [Advanced Network Configuration](Chapter 4/ Section 2/advanced_network_configuration.md)
        * [Docker Weave](Chapter 4/ Section 2/docker_weave.md)
    * [Data Volumes](Chapter 4/data_volumes.md)
-       * CPU Control
    * [Resource Control](Chapter 4/Section 4/resource_control.md)
        * [Memory Control](Chapter 4/Section 4/memory_control.md)
        * [CPU Control](Chapter 4/Section 4/cpu_control.md)
