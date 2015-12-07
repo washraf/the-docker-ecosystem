@@ -59,4 +59,5 @@
        * [CPU Control](Chapter 4/Section 4/cpu_control.md)
        * [IO Control](Chapter 4/Section 4/io_control.md)
        * [Control Capabilities](Chapter 4/Section 4/control_capabilities.md)
+       * Accounting for usage
 
