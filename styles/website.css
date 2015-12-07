@@ -17,12 +17,12 @@ h3{
 }
 
 h4{
-    color:SlateGray;
-    font-size:0.75em;
+    color:DarkBlue;
+    font-size:small;
 }
 
 code{
-    color: Teal;
+    color: DarkSlateGray;
     background-color: YellowGreen;
     font-size: 1.5em;
     padding:0px;
