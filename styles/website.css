@@ -22,7 +22,7 @@ h4{
 
 code{
     color: Violet;
-    background-color: Ivory ;
+    background-color: YellowGreen;
     font-size: 1.5em;
     padding:0px;
     margin:0px;
@@ -31,7 +31,7 @@ code{
 pre code{
     color: Teal;
     font-size: 2.5em;
-    background-color: Ivory ;
+    background-color: YellowGreen;
     padding:0px;
     margin:0px;
 }
