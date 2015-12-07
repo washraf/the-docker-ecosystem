@@ -1,5 +1,13 @@
 /* CSS for all */
 
+section.normal p,
+section.normal li {
+    text-align: justify;
+    font-size: 20px;
+    padding: 0px;
+    margin: 0px;
+}
+
 .book-header h1{
     color:#000066;
     text-transform: uppercase;
@@ -53,10 +61,3 @@ section.normal pre code{
     margin: 0px;
 }
 
-section.normal p,
-section.normal li {
-    text-align: justify;
-    font-size: 20px;
-    padding: 0px;
-    margin: 0px;
-}
