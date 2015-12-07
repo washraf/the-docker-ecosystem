@@ -6,7 +6,6 @@
     "plugins": [
         "ace",
         "addcssjs",
-        "anchor-navigation"
     ],
     "pluginsConfig": {
         "addcssjs": {
