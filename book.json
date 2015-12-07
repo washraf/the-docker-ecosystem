@@ -5,11 +5,14 @@
     },
     "plugins": [
         "ace",
-        "addcssjs"
+        "addcssjs",
+        "anchor-navigation"
     ],
     "pluginsConfig": {
-        "addcssjs":{
-            "css": ["style/website.css"]
+        "addcssjs": {
+            "css": [
+                "style/website.css"
+            ]
         }
     }
 }
