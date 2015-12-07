@@ -6,14 +6,17 @@ h1{
     margin:0px;
     line-height: 1.2;
     border-bottom: 4px solid #eee;
+    font-size:small;
 }
 
 h2{
     color:DarkMagenta;
+    font-size:small;
 }
 
 h3{
     color:DarkSlateBlue;
+    font-size:small;
 }
 
 h4{
