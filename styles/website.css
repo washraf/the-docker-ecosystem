@@ -1,8 +1,8 @@
 /* CSS for all */
-
-section.normal{
+*{
     line-height: 0px;
 }
+
 section.normal p,
 section.normal li {
     text-align: justify;
