@@ -12,5 +12,4 @@ Also, the book discusses the integration with automation tools like puppet, chef
 The Books is a journey from zero or very basic understanding of docker to a fully mature understanding of the containers and the integration with various tools.
 
 ##About the authors
-Feel free to add your self to the book authors as long as you continuously contribute the this body of knowledge.
-So, Feel free to edit and review the book.
+Feel free to edit and review the book and Feel free to add your self to the book authors as long as you continuously contribute the this body of knowledge.
