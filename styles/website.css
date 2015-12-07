@@ -28,14 +28,14 @@ h4{
 p code{
     color: DarkSlateGray;
     background-color: YellowGreen;
-    font-size: 3.5em;
+    font-size: 20px;
     padding: 0px;
     margin: 0px;
 }
 
 pre code{
     color: Teal;
-    font-size: 3.5em;
+    font-size: 20px;
     background-color: YellowGreen;
     padding: 0px;
     margin: 0px;
