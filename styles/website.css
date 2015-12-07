@@ -1,5 +1,9 @@
 /* CSS for all */
 
+div.page-inner{
+    width: 5000px;
+}
+
 section.normal p,
 section.normal li {
     text-align: justify;
