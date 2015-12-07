@@ -40,6 +40,6 @@ This is the recommended way to create a docker image.
     CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS              PORTS                   NAMES
     6d575aeb39f1        washraf/ngtest      "nginx -g 'daemon off"   2 minutes ago       Up 2 minutes        0.0.0.0:32769->80/tcp   drunk_babbage
 **Step 8:** visit the site
-![Site Test](Images/Chapter 3/S3_Site.jpg)
+![Site Test](Images\Chapter 3\S3_Site.jpg)
 
 For more about building docker images check the See Docker File part and the [build command page](https://docs.docker.com/reference/commandline/build/)
