@@ -37,5 +37,5 @@
        * [Docker Diff](Chapter 2/Section 5/docker_diff.md)
        * [Docker PS](Chapter 2/Section 5/docker_ps.md)
    * [Tips and Trics](Chapter 2/tips_and_trics.md)
-* Images and docker HUB
+* [Images and docker HUB](Chapter 3/ images_and_docker_hub.md)
 
