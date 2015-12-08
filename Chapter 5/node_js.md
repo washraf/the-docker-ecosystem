@@ -35,6 +35,7 @@ app.listen(PORT);
 console.log('Running on http://localhost:' + PORT);
 {%endace%}
 ####Step 3: Create A Docker File
+{%ace edit=false%}
 FROM    ubuntu
 #make ure apt is up to date
 RUN apt-get update
@@ -46,6 +47,7 @@ COPY . /src
 RUN cd /src; npm install
 EXPOSE  8080
 CMD ["nodejs", "/src/index.js"]
+{%endace%}
 ####Step 4: Build The Image from Docker File
 $ sudo docker build -t washraf/washraf .
 Step 5: Run the Docker Image
