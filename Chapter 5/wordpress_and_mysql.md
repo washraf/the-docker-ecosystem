@@ -12,7 +12,7 @@ Create a folder name mysqlImage and create Dockerfile that contains the instruct
 #vi Dockerfile
 ```
 In the docker file write the needed configurations
-{%ace%}
+{%ace edit=false%}
 # Version: 0.0.1
 FROM mysql
 #use mysql image to be our base image
@@ -24,6 +24,7 @@ ENV MYSQL_ROOT_PASSWORD w@lid
 RUN service mysql start
 # The Image default expose
 # EXPOSE 3306
+{%endace%}
 ####Step 2: Build docker Image
 # docker build –t washraf/mysql .
 ####Step 3: run the container
