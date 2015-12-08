@@ -6,8 +6,11 @@ This demo will allow you to create a two tier application using ruby on rails an
 Mysql is by far the most used database in the open source community so a docker image have been created with mysql installed on it.
 ####Step 1: Create Docker File
 Create a folder name mysqlImage and create Dockerfile that contains the instructions needed for the image.
+
 ```#mkdir mysqlImage```
+
 ```#cd mysqlImage```
+
 ```#vi Dockerfile```
 
 In the docker file write the needed configurations:
