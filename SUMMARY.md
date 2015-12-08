@@ -67,4 +67,5 @@
    * [Docker API](Chapter 4/docker_api.md)
 * [Docker Demos](Chapter 5/docker_demos.md)
    * [Node JS](Chapter 5/node_js.md)
+   * Wordpress and mysql
 
