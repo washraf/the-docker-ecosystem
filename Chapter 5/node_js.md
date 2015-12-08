@@ -4,6 +4,7 @@ In this demo we are going to create a container that hosts a NodeJS application.
 This demo is based on [docker example](https://docs.docker.com/examples/nodejs_web_app/)
 
 ####Create NodeJS Application
+
 Step 1: Create Package.Json file
 {
   "name": "docker-ubuntu-hello",
