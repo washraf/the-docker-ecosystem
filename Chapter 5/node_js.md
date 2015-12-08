@@ -49,16 +49,18 @@ EXPOSE  8080
 CMD ["nodejs", "/src/index.js"]
 {%endace%}
 ####Step 4: Build The Image from Docker File
-$ sudo docker build -t washraf/washraf .
-Step 5: Run the Docker Image
-$ sudo docker run -p 1234:8080 -d washraf/washraf
-####Step 6: test the application
-$curl -i localhost:1234
-HTTP/1.1 200 OK
-X-Powered-By: Express
-Content-Type: text/html; charset=utf-8
-Content-Length: 12
-Date: Tue, 06 Oct 2015 23:57:48 GMT
-Connection: keep-alive
+```$ sudo docker build -t washraf/washraf .```
 
-Hello world
+####Step 5: Run the Docker Image
+```$ sudo docker run -p 1234:8080 -d washraf/washraf```
+####Step 6: test the application
+```$curl -i localhost:1234```
+
+    HTTP/1.1 200 OK
+    X-Powered-By: Express
+    Content-Type: text/html; charset=utf-8
+    Content-Length: 12
+    Date: Tue, 06 Oct 2015 23:57:48 GMT
+    Connection: keep-alive
+    
+    Hello world
