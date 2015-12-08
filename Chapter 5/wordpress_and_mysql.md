@@ -27,11 +27,11 @@ RUN service mysql start
 # EXPOSE 3306
 {%endace%}
 ####Step 2: Build docker Image
-# docker build –t washraf/mysql .
+```# docker build –t washraf/mysql .```
 ####Step 3: run the container
-# docker run --name wpsql -d washraf/mysql
+```# docker run --name wpsql -d washraf/mysql```
 ##Create My WordPress container
 ####Step 1: run the wordpress image
-# docker run -p 80:80 --link wpsql:mysql -d  wordpress
+```# docker run -p 80:80 --link wpsql:mysql -d  wordpress```
 ####Step2: open the browser
 
