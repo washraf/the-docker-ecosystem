@@ -3,9 +3,10 @@
 In this demo we are going to create a container that hosts a NodeJS application.
 This demo is based on [docker example](https://docs.docker.com/examples/nodejs_web_app/)
 
-####Create NodeJS Application
+##Create NodeJS Application
 
-Step 1: Create Package.Json file
+####Step 1: Create Package.Json file
+{%ace edit=false%}
 {
   "name": "docker-ubuntu-hello",
   "private": true,
@@ -16,7 +17,9 @@ Step 1: Create Package.Json file
     "express": "3.2.4"
   }
 }
+{%endace%}
 ####Step 2: Create Index.JS File
+{%ace edit=false%}
 var express = require('express');
 
 // Constants
@@ -30,6 +33,7 @@ app.get('/', function (req, res) {
 
 app.listen(PORT);
 console.log('Running on http://localhost:' + PORT);
+{%endace%}
 ####Step 3: Create A Docker File
 FROM    ubuntu
 #make ure apt is up to date
