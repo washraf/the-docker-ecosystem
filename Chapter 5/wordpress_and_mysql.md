@@ -11,7 +11,8 @@ Create a folder name mysqlImage and create Dockerfile that contains the instruct
 #cd mysqlImage
 #vi Dockerfile
 ```
-In the docker file write the needed configurations
+In the docker file write the needed configurations:
+
 {%ace edit=false%}
 # Version: 0.0.1
 FROM mysql
