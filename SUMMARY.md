@@ -66,5 +66,5 @@
    * [Docker Security](Chapter 4/docker_security.md)
    * [Docker API](Chapter 4/docker_api.md)
 * [Docker Demos](Chapter 5/docker_demos.md)
-   * Node JS
+   * [Node JS](Chapter 5/node_js.md)
 
