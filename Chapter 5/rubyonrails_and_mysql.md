@@ -57,10 +57,10 @@ rails server -b 0.0.0.0
 From rails
 COPY /trial/ /root/trial/
 COPY /SCRIPT.sh /root/
-{%endace%}
 #ENTRYPOINT /root/SCIRPT.sh
 EXPOSE 3000
+{%endace%}
 ####Step 5: Build DockerFile
-docker build --no-cache -t washraf/rails .
-Step: start the container
-docker run -d -p 3000:3000  washraf/rails /root/SCRIPT.sh
+```docker build --no-cache -t washraf/rails .```
+####Step 6: start the container
+```docker run -d -p 3000:3000  washraf/rails /root/SCRIPT.sh```
