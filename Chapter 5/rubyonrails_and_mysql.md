@@ -53,9 +53,11 @@ rake db:migrate
 rails server -b 0.0.0.0
 {%endace%}
 ####Step 4: Create Dockerfile
+{%ace edit=false%}
 From rails
 COPY /trial/ /root/trial/
 COPY /SCRIPT.sh /root/
+{%endace%}
 #ENTRYPOINT /root/SCIRPT.sh
 EXPOSE 3000
 ####Step 5: Build DockerFile
