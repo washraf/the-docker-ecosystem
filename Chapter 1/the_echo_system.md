@@ -1,8 +1,8 @@
-# The Echo System
+# The EcoSystem
 
-The docker echo system is rich and allows multiple types of orchestration and clustering tools.
+The docker ecosystem is rich and allows multiple types of orchestration and clustering tools.
 
-The tools that are built for the docker echo system and  included in the book are :
+The tools that are built for the docker ecosystem and  included in the book are :
 1. Kubernetes
 2. Mesos Marathon
 3. CoreOS
