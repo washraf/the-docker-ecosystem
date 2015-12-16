@@ -22,7 +22,7 @@
        * [Docker Engine](Chapter 1/Section 5/docker_engine.md)
        * [Docker HUB](Chapter 1/Section 5/docker_hub.md)
    * [Docker Interfaces](Chapter 1/Section 6/docker_interfaces.md)
-   * [The Echo System](Chapter 1/the_echo_system.md)
+   * [The EcoSystem](Chapter 1/the_echo_system.md)
 * [Docker First Steps](Chapter 2/docker_first_steps.md)
    * [Installation](Chapter 2/Section 1/installation_prerequisites.md)
        * [Install On CentOS](Chapter 2/Section 1/install_on_centos.md)
