@@ -10,6 +10,6 @@
     
 3 - based on you version add ```deb https://apt.dockerproject.org/repo ubuntu-trusty main```
 
-4 - Update ```$ apt-get update```
+4 - Update Package manager ```$ apt-get update```
 
 5 - 
