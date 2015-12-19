@@ -12,4 +12,14 @@
 
 4 - Update Package manager ```$ apt-get update```
 
-5 - 
+5 - install docker
+    
+    sudo apt-get install docker-engine
+    
+6 - To test the installation
+    
+    sudo service docker start
+    
+    sudo docker version
+    
+    
