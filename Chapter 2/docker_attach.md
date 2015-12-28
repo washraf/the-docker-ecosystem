@@ -1,5 +1,4 @@
 # Docker Attach
-## Attach Command
 
 This commands brings a container to the foreground. The container must be running to be attached.
 
