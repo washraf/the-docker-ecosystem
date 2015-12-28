@@ -51,7 +51,7 @@ Sets some environment variables for the container
 ###USER:
 Sets the user that will be running in the container and the default is the root.
 ####Usage
-    USER <UID>|<UName>
+```USER <UID>|<UName>```
 
 ###EXPOSE:
 This allows the container ports to be accessed from the global ports. Note that Port mapping has to be specified directly at creation time using the –p or –P commands
