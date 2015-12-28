@@ -1,6 +1,6 @@
 # Container Control Commands
 
-### Docker Start, Stop and Restart
+## Docker Start, Stop and Restart
 These three commands are used to change the state of a container from running to stopped or restart it.
 
 **Stop:** When a user issues this command, the Docker engine sends SIGTERM (-15) to the main process, which is running inside the container.
