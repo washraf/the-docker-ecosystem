@@ -1,5 +1,21 @@
 # Docker Images Commands
 
+###Docker Save and Load Images
+Docker has two commands the save and load commands that allows you to have a portable version of a docker image.
+
+For more check the save and load pages in the documentation.
+####Usage
+    $ docker save [OPTIONS] IMAGE [IMAGE...]
+    [options]
+    -o, --output=""    Write to a file, instead of STDOUT
+    $ docker load [OPTIONS]
+    [options]
+    -i, --input=""     Read from a tar archive file, instead of STDIN. The tarball may be compressed with gzip, bzip, or xz
+####Example
+    $ docker save -o ubuntu.tar ubuntu:lucid ubuntu:saucy
+    $ docker load --input fedora.tar
+
+
 ###Docker Images
 
 Shows the currently available images.
