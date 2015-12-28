@@ -3,7 +3,7 @@
 ##Docker Create
 The docker create command creates container that allows setting configuration you can set in run command the only difference that the created container is never started and in order to start a container run the start command.
 
-For more the docker create 
+For more the docker create check out the [official documentation](https://docs.docker.com/engine/reference/commandline/create/). 
 ###**Usage**
 ```$ sudo docker create [OPTIONS] IMAGE [COMMAND] [ARG...]```
 ###**Example**
