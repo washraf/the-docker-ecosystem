@@ -39,6 +39,7 @@
        * [Docker Copy](Chapter 2/docker_copy.md)
        * [Docker Attach](Chapter 2/docker_attach.md)
        * [Docker Inspect](Chapter 2/docker_inspect.md)
+       * Docker delete
    * [Docker Generic Commands](Chapter 2/Section 5/docker_generic_commands.md)
        * [Docker Login](Chapter 2/Section 5/docker_login.md)
        * [Docker Info](Chapter 2/Section 5/docker_info.md)
