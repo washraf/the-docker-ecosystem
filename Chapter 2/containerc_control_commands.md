@@ -5,17 +5,9 @@
 3. Stop
 4. Restart
 5. Execute
-6. 
-
-
-
-##Inspect
-This command is used to check for the current configuration of a container from network to drivers and name. It prints the information in the form of JSON File
-
-####**Usage**
-```$ docker inspect [OPTIONS] CONTAINER|IMAGE [CONTAINER|IMAGE...]```
-####**Example**
-```$ sudo docker inspect Your_Ubuntu_Container```
+6. Copy
+7. Attache
+8. Inspect
 
 ##Deleting a container
 This command is used to delete any container either by name or ID. Put Make sure that the container is stopped before you remove it.
