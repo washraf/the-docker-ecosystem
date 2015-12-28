@@ -4,7 +4,8 @@
 2. Start
 3. Stop
 4. Restart
-5. 
+5. Execute
+6. 
 
 ## Exec Command
 
