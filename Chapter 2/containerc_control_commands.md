@@ -1,5 +1,11 @@
 # Container Control Commands
 
+1. Create
+2. Start
+3. Stop
+4. Restart
+5. 
+
 ## Docker Start, Stop and Restart
 These three commands are used to change the state of a container from running to stopped or restart it.
 
