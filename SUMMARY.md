@@ -36,6 +36,7 @@
        * [Docker Create](Chapter 2/Section 2/docker_create.md)
        * [Docker Start, Stop and Restart](Chapter 2/docker_start_stop_restart.md)
        * [Docker Execute](Chapter 2/docker_execute.md)
+       * Docker Copy
    * [Docker Generic Commands](Chapter 2/Section 5/docker_generic_commands.md)
        * [Docker Login](Chapter 2/Section 5/docker_login.md)
        * [Docker Info](Chapter 2/Section 5/docker_info.md)
