@@ -62,8 +62,9 @@ This allows the container ports to be accessed from the global ports. Note that 
 The ENTRYPOINT instruction will help in crafting an image for running an application (entry point) during the complete life cycle of the container, which would have been spun out of the image. When the entry point application is terminated, the container would also be terminated along with the application and vice versa.
 The ENTRYPOINT instruction cannot be overridden in the run command.
 ####Usage
- 	ENTRYPOINT ["executable", "param1", "param2"] (the preferred exec form)
- 	ENTRYPOINT command param1 param2 (shell form)
+ ```ENTRYPOINT ["executable", "param1", "param2"] (the preferred exec form)```
+ 
+ ```ENTRYPOINT command param1 param2 (shell form)```
 
 ###Vloume:
 The VOLUME instruction creates a mount point with the specified name and marks it as holding externally mounted volumes from native host or other containers. 
