@@ -3,9 +3,9 @@
 ##Docker Create
 The docker create command creates container that allows setting configuration you can set in run command the only difference that the created container is never started and in order to start a container you have to run the start command.
 For more ab
-###**Usage**:
+###**Usage**
 ```$ sudo docker create [OPTIONS] IMAGE [COMMAND] [ARG...]```
-###**Example**:
+###**Example**
 ```$ docker create -t -i fedora bash```
 
 6d8af538ec541dd581ebc2a24153a28329acb5268abe5ef868c1f1a261221752
