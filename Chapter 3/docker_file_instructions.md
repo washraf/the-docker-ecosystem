@@ -2,7 +2,7 @@
 Creating a docker file is the most used way to create a docker image.
 In this section we are going to explore the ways to create a docker image file.
 
-For More information visit [the builder page](https://docs.docker.com/reference/builder/)
+For More information visit [the docker builder page](https://docs.docker.com/reference/builder/)
 
 ###From:
 
