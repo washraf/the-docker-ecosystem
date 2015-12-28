@@ -1,14 +1,14 @@
 #Docker Engine Control
 
-###Start Docker engine
+##Start Docker engine
 
-###Stop
+##Stop
 
 ###Restart
 
-###Configure
+##Configure
 
-###Chkconfing
+##Chkconfing
 
 After installing the docker you can make sure the service starts with the OS
 
