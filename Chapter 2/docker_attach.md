@@ -1,20 +1,11 @@
 # Docker Attach
+## Attach Command
 
-##Copy data [From|To] container
-It copies data from and to running containers. 
+This commands brings a container to the foreground. The container must be running to be attached.
 
-For More visit the [Copy documentation](https://docs.docker.com/engine/reference/commandline/cp/)
 ###**Usage**
-```$ docker cp [OPTIONS] CONTAINER:PATH LOCALPATH|-```
-
-```$ docker cp [OPTIONS] LOCALPATH|- CONTAINER:PATH```
-
+```$ docker attach [OPTIONS] CONTAINER```
 ###**Example**
-Copy Data from Container to host
+```$ sudo docker attach Your_Ubuntu_Container```
 
-```$ sudo docker cp testcopy:/root/file.txt .```
-
-
-Copy Data from host to container
-
-```$ sudo docker cp host.txt testcopy:/root/host.txt```
+For more Information visit the [commandline page](https://docs.docker.com/reference/commandline/attach/)
