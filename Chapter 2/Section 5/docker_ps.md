@@ -18,4 +18,6 @@ Shows the current running containers on the system
 
     2e4bea848301        hello-world         "/hello"            About a minute ago   Exited (0) About a minute ago                       sharp_jang
 
-For more information visit the [offical docker documentation]( https://docs.docker.com/reference/commandline/ps/) 
+For more information visit the [offical docker documentation]( https://docs.docker.com/reference/commandline/ps/)
+
+A very good discussion on the PS Command on [stackoverflow](http://stackoverflow.com/questions/34417255/where-does-docker-ps-command-look-for-current-containers)
