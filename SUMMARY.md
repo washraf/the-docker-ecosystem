@@ -33,7 +33,7 @@
        * [Run Command](Chapter 2/Section 3/run_command.md)
        * [Example Running Containers](Chapter 2/Section 3/example_running_containers.md)
    * [Container Control Commands](Chapter 2/containerc_control_commands.md)
-       * Docker Create
+       * [Docker Create](Chapter 2/Section 2/docker_create.md)
    * [Docker Generic Commands](Chapter 2/Section 5/docker_generic_commands.md)
        * [Docker Login](Chapter 2/Section 5/docker_login.md)
        * [Docker Info](Chapter 2/Section 5/docker_info.md)
