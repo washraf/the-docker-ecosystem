@@ -41,13 +41,15 @@ Copies files from the host file system to the image file system.
 ###ADD:
 The add file is similar to the copy but can handle both tar files and remote URLs
 ####Usage
- 	ADD <src>... <dest>
- 	ADD ["<src>",... "<dest>"] (this form is required for paths containing whitespace)
+```ADD <src>... <dest> ```
+
+```ADD ["<src>",... "<dest>"] (this form is required for paths containing whitespace)```
 ###ENV:
 Sets some environment variables for the container
 ####Usage
- 	ENV <key> <value> only one perline 
- 	ENV <key>=<value> ... allows multiple per line
+ ```ENV <key> <value> only one perline```
+ 
+ ```ENV <key>=<value> ... allows multiple per line```
 ###USER:
 Sets the user that will be running in the container and the default is the root.
 ####Usage
