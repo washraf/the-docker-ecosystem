@@ -68,6 +68,6 @@ The ENTRYPOINT instruction cannot be overridden in the run command.
 ###Vloume:
 The VOLUME instruction creates a mount point with the specified name and marks it as holding externally mounted volumes from native host or other containers. 
 ####Usage
-    VOLUME ["/data"]
+```VOLUME ["/data"]```
 
 It is generally considered a bad idea to run commands like apt-get -y update or yum -y update in your application Dockerfiles because it can significantly increase the time it takes for all of your builds to finish. Instead, consider basing your application image on another image that already has these updates applied to it.
